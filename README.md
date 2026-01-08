@@ -9,7 +9,7 @@ Xtreme Meetings is a secure, open-source video meeting app like Zoom with unlimi
 - Free & open source
 
 ## Installation
-git clone https://github.com/YOUR_USERNAME/Xtreme-Meet.git
+git clone https://github.com/raot95173-ai/Xtreme-Meet.git
 cd Xtreme-Meet/server
 npm install
 npm start
