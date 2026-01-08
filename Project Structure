@@ -1,0 +1,14 @@
+Xtreme-Meet/
+│
+├── server/
+│   ├── server.js
+│   └── package.json
+│
+├── public/
+│   ├── index.html
+│   ├── room.html
+│   ├── style.css
+│   └── script.js
+│
+├── README.md
+└── LICENSE
