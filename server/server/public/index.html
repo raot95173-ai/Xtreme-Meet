@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Xtreme Meetings</title>
+</head>
+<body>
+  <h1>Xtreme Meetings</h1>
+  <button onclick="createMeeting()">Start New Meeting</button>
+
+  <script>
+    function createMeeting() {
+      const room = Math.random().toString(36).substring(2, 8);
+      window.location = `room.html?room=${room}`;
+    }
+  </script>
+</body>
+</html>
